@@ -9,3 +9,5 @@ L
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 R
 "contracts/artist-verification.clar,9/d/9d1a99496a16498b6e0288c65ca3012d723f1bf3
+Q
+!tests/artist-verification.test.ts,a/7/a747400bcc522aecfbffca7111bf2169e0dcdb34
