@@ -5,8 +5,8 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
-[contracts.usage-tracking]
-path = 'contracts/usage-tracking.clar'
+[contracts.artist-verification]
+path = 'contracts/artist-verification.clar'
 clarity_version = 2
 epoch = 2.5
 [repl.analysis]
